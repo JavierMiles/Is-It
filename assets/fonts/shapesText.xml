@@ -1,0 +1,37 @@
+<TextureAtlas imagePath="shapesText.png">
+	<SubTexture name="circle.png" x="495" y="285" width="275" height="93"/>
+	<SubTexture name="circleblue.png" x="495" y="190" width="275" height="93"/>
+	<SubTexture name="circlegreen.png" x="495" y="95" width="275" height="93"/>
+	<SubTexture name="circleorange.png" x="495" y="0" width="275" height="93"/>
+	<SubTexture name="circlered.png" x="494" y="678" width="275" height="93"/>
+	<SubTexture name="circleyellow.png" x="436" y="1444" width="275" height="93"/>
+	<SubTexture name="circlepurple.png" x="436" y="1349" width="275" height="93"/>
+	<SubTexture name="hexagonblue.png" x="0" y="791" width="434" height="111"/>
+	<SubTexture name="hexagongreen.png" x="0" y="904" width="434" height="111"/>
+	<SubTexture name="hexagonorange.png" x="0" y="1017" width="434" height="111"/>
+	<SubTexture name="hexagonpurple.png" x="0" y="1469" width="434" height="111"/>
+	<SubTexture name="hexagonred.png" x="0" y="1243" width="434" height="111"/>
+	<SubTexture name="hexagonyellow.png" x="0" y="1356" width="434" height="111"/>
+	<SubTexture name="hexagon.png" x="0" y="1130" width="434" height="111"/>
+	<SubTexture name="pentagon.png" x="0" y="226" width="493" height="111"/>
+	<SubTexture name="pentagonblue.png" x="0" y="678" width="492" height="111"/>
+	<SubTexture name="pentagongreen.png" x="0" y="339" width="493" height="111"/>
+	<SubTexture name="pentagonorange.png" x="0" y="0" width="493" height="111"/>
+	<SubTexture name="pentagonpurple.png" x="0" y="565" width="493" height="111"/>
+	<SubTexture name="pentagonred.png" x="0" y="452" width="493" height="111"/>
+	<SubTexture name="pentagonyellow.png" x="0" y="113" width="493" height="111"/>
+	<SubTexture name="square.png" x="436" y="1256" width="360" height="91"/>
+	<SubTexture name="squareblue.png" x="436" y="884" width="361" height="91"/>
+	<SubTexture name="squaregreen.png" x="436" y="1070" width="360" height="91"/>
+	<SubTexture name="squareorange.png" x="436" y="977" width="361" height="91"/>
+	<SubTexture name="squarepurple.png" x="409" y="1930" width="361" height="91"/>
+	<SubTexture name="squarered.png" x="436" y="1163" width="360" height="91"/>
+	<SubTexture name="squareyellow.png" x="436" y="791" width="361" height="91"/>
+	<SubTexture name="triangle.png" x="0" y="1698" width="407" height="114"/>
+	<SubTexture name="triangleblue.png" x="409" y="1814" width="406" height="114"/>
+	<SubTexture name="trianglegreen.png" x="409" y="1582" width="407" height="114"/>
+	<SubTexture name="triangleorange.png" x="0" y="1930" width="407" height="114"/>
+	<SubTexture name="trianglepurple.png" x="0" y="1814" width="407" height="114"/>
+	<SubTexture name="trianglered.png" x="409" y="1698" width="406" height="114"/>
+	<SubTexture name="triangleyellow.png" x="0" y="1582" width="407" height="114"/>
+</TextureAtlas>

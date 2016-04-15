@@ -1,0 +1,15 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="background.png" x="2515" y="0" width="1152" height="1600"/>
+	<SubTexture name="bot.png" x="0" y="1517" width="1190" height="467"/>
+	<SubTexture name="botbig.png" x="1258" y="546" width="1191" height="1370"/>
+	<SubTexture name="helpdown.png" x="3428" y="1838" width="116" height="175"/>
+	<SubTexture name="helpup.png" x="3546" y="1838" width="116" height="177"/>
+	<SubTexture name="pausedown.png" x="1192" y="1938" width="78" height="75"/>
+	<SubTexture name="pauseup.png" x="1272" y="1938" width="78" height="74"/>
+	<SubTexture name="playdown.png" x="2451" y="1602" width="487" height="334"/>
+	<SubTexture name="playup.png" x="2940" y="1602" width="486" height="330"/>
+	<SubTexture name="top.png" x="1258" y="0" width="1255" height="544"/>
+	<SubTexture name="topbig.png" x="0" y="0" width="1256" height="1515"/>
+	<SubTexture name="wright.png" x="3428" y="1602" width="288" height="234"/>
+	<SubTexture name="wrong.png" x="3669" y="0" width="254" height="254"/>
+</TextureAtlas>
